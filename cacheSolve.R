@@ -10,3 +10,4 @@ cacheSolve <- function(x, ...) {
 	x$setinverse(m)
 	m
 }
+## This is edited by Hyeawon
